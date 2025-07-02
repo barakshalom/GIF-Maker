@@ -1,0 +1,17 @@
+﻿  input.c
+  linkedList.c
+  main.c
+C:\Users\Cyber_User\Desktop\GIF-Maker\GIFmaker-code\linkedList.c(35,49): warning C4133: 'function': incompatible types - from 'Frame *' to 'const char *'
+C:\Users\Cyber_User\Desktop\GIF-Maker\GIFmaker-code\linkedList.c(199,23): warning C4018: '<': signed/unsigned mismatch
+c:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+  (compiling source file 'main.c')
+  
+C:\Users\Cyber_User\Desktop\GIF-Maker\GIFmaker-code\main.c(75,2): warning C4098: 'main': 'void' function returning a value
+  memory.c
+  screen.c
+  view.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+  (compiling source file 'view.c')
+  
+  Generating Code...
+  GIFmaker.vcxproj -> C:\Users\Cyber_User\Desktop\GIF-Maker\GIFmaker-code\x64\Debug\GIFmaker.exe
